@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    background-color: rgb(175, 175, 175);
+    padding: 10px;
+    height: 300px;
+    text-align: center;
+}
+#h1{
+    margin-top: 50px;
+}
+#section1{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(228, 228, 228);
+    
+}
+#section2{
+    text-align: center;
+}
+
+#section3{
+    display: flex;
+    padding: 10px;
+}
